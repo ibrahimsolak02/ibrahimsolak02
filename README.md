@@ -6,12 +6,12 @@ I am a **Computer Engineering Student at Ankara University** with a deep passion
 
 ### 🔭 Currently Working On
 - **RemoteTAP:** A multi-module microservices project built with Spring Boot, Kafka, and Redis.
-- **Java Mastery:** Deep-diving into Java Core and preparing for professional OCP certification.
+- **Java Mastery:** Deep-diving into Java Core.
 
 ### 🛠️ Tech Stack
 - **Backend:** Java (Spring Boot, Spring Security, Hibernate)
 - **Frontend:** Angular, TypeScript
-- **Data & Tools:** PostgreSQL, Redis, Kafka, Docker, Git, Neo4j (Cypher)
+- **Data & Tools:** PostgreSQL, Redis, Kafka, Docker, Git
 
 ### 📊 My GitHub Stats
 ![Ibrahim's Stats](https://github-readme-stats.vercel.app/api?username=ibrahimsolak02&show_icons=true&theme=nord&count_private=true)
