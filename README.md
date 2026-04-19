@@ -5,7 +5,7 @@ I am a **Computer Engineering Student at Ankara University** with a deep passion
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-solak-a6a280216/)
 
 <a href="https://github.com/denvercoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FF00&width=900&lines=Clean+code+always+looks+like+it+was+written+by+someone+who+cares." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&width=900&lines=Clean+code+always+looks+like+it+was+written+by+someone+who+cares." alt="Typing SVG" />
 </a>
 
 ### 🔭 Currently Working On
