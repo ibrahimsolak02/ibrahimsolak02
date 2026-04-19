@@ -18,6 +18,8 @@ I am a **Computer Engineering Student at Ankara University** with a deep passion
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsolak02&layout=compact&theme=nord)
 
 ---
+
 <p align="center">
+  <br>
   <h3><i>“Clean code always looks like it was written by someone who cares.”</i></h3>
 </p>
