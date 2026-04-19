@@ -10,7 +10,7 @@ I am a **Computer Engineering Student at Ankara University** with a deep passion
 
 
 ### 🔭 Currently Working On
-- **RemoteTAP:** A multi-module microservices project built with Spring Boot, Kafka, and Redis.
+- **RemoteTAP:** A multi-module microservices project built with Spring Boot, React, Kafka, and Redis.
 - **Java Mastery:** Deep-diving into Java Core.
 
 ### 🛠️ Tech Stack
