@@ -17,9 +17,9 @@ I am a **Computer Engineering Student at Ankara University** with a deep passion
 ![Ibrahim's Stats](https://github-readme-stats.vercel.app/api?username=ibrahimsolak02&show_icons=true&theme=nord&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsolak02&layout=compact&theme=nord)
 
----
 
 <p align="center">
-  <br>
-  <h3><i>“Clean code always looks like it was written by someone who cares.”</i></h3>
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Clean+code+always+looks+like+it+was+written...;...by+someone+who+cares." alt="Typing SVG" />
+  </a>
 </p>
