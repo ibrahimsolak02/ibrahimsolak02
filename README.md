@@ -4,6 +4,11 @@ I am a **Computer Engineering Student at Ankara University** with a deep passion
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-solak-a6a280216/)
 
+---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Clean%20code%20always%20looks%20like%20it%20was%20written%20by%20someone%20who%20cares.&author=Robert%20C.%20Martin&theme=nord" alt="Clean Code Quote" />
+</p>
+
 ### 🔭 Currently Working On
 - **RemoteTAP:** A multi-module microservices project built with Spring Boot, Kafka, and Redis.
 - **Java Mastery:** Deep-diving into Java Core.
@@ -17,9 +22,3 @@ I am a **Computer Engineering Student at Ankara University** with a deep passion
 ![Ibrahim's Stats](https://github-readme-stats.vercel.app/api?username=ibrahimsolak02&show_icons=true&theme=nord&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsolak02&layout=compact&theme=nord)
 
-
-<p align="center">
-  <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Clean+code+always+looks+like+it+was+written...;...by+someone+who+cares." alt="Typing SVG" />
-  </a>
-</p>
