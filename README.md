@@ -8,6 +8,7 @@ I am a **Computer Engineering Student at Ankara University** with a deep passion
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00FFFF&width=900&lines=Clean+code+always+looks+like+it+was+written+by+someone+who+cares." alt="Typing SVG" />
 </a>
 
+
 ### 🔭 Currently Working On
 - **RemoteTAP:** A multi-module microservices project built with Spring Boot, Kafka, and Redis.
 - **Java Mastery:** Deep-diving into Java Core.
