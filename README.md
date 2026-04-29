@@ -19,6 +19,6 @@ I am a **Computer Engineering Student at Ankara University** with a deep passion
 - **Data & Tools:** PostgreSQL, Redis, Kafka, Docker, Git
 
 ### 📊 My GitHub Stats
-![Ibrahim's 2026 Commits](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimsolak02&theme=nord)
+[![Ibrahim's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrahimsolak02&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsolak02&layout=compact&theme=nord)
 
